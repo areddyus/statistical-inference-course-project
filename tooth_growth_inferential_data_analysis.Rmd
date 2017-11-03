@@ -1,7 +1,7 @@
 ---
 title: "The Effect of Vitamin C on Tooth Growth in Guinea Pigs"
-author: "Matthew Bender"
-date: "August 19th, 2015"
+author: "AReddy"
+date: "Nov 3rd, 2017"
 output: html_document
 ---
 
